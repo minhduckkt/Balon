@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   --paper: #f6f1e7;
   --paper-2: #fffaf0;
   --ink: #1f2528;
@@ -9,6 +9,7 @@
   --green: #23463f;
   --steel: #40515a;
   --shadow: 0 18px 50px rgba(31, 37, 40, 0.14);
+  --font-ui: "Segoe UI", Arial, Tahoma, sans-serif;
 }
 
 * {
@@ -27,7 +28,7 @@ body {
     linear-gradient(180deg, rgba(166, 111, 43, 0.07) 1px, transparent 1px),
     var(--paper);
   background-size: 32px 32px;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-ui);
 }
 
 a {
@@ -88,7 +89,7 @@ textarea {
 .brand small {
   margin-top: 3px;
   color: var(--muted);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 12px;
   letter-spacing: 0;
 }
@@ -97,7 +98,7 @@ textarea {
   display: flex;
   align-items: center;
   gap: 4px;
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 14px;
 }
 
@@ -142,7 +143,7 @@ textarea {
   background: transparent;
   color: var(--steel);
   cursor: pointer;
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 13px;
   text-align: left;
   text-decoration: none;
@@ -180,7 +181,7 @@ main {
 .eyebrow {
   margin: 0 0 12px;
   color: var(--wine);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 12px;
   font-weight: 700;
   letter-spacing: 0;
@@ -211,7 +212,7 @@ main {
   background: transparent;
   color: var(--green);
   cursor: pointer;
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 14px;
   font-weight: 700;
   text-decoration: none;
@@ -246,7 +247,7 @@ main {
   padding: 14px 16px;
   border-top: 1px solid var(--line);
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 13px;
 }
 
@@ -277,7 +278,7 @@ main {
 .stats-band span {
   margin-top: 8px;
   color: rgba(255, 250, 240, 0.76);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 13px;
 }
 
@@ -316,7 +317,7 @@ main {
 
 .field span {
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 12px;
   font-weight: 700;
 }
@@ -330,7 +331,7 @@ main {
   background: #fffdf8;
   color: var(--ink);
   padding: 10px 11px;
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 14px;
 }
 
@@ -358,7 +359,7 @@ main {
 .notice p {
   margin: 6px 0 0;
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 13px;
   line-height: 1.45;
 }
@@ -373,7 +374,7 @@ main {
 
 .result-count {
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 14px;
   white-space: nowrap;
 }
@@ -409,7 +410,7 @@ main {
 
 .product-line {
   color: var(--wine);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 11px;
   font-weight: 700;
   text-transform: uppercase;
@@ -430,7 +431,7 @@ main {
   border: 1px solid rgba(64, 81, 90, 0.28);
   background: rgba(64, 81, 90, 0.08);
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 12px;
   font-weight: 700;
 }
@@ -440,7 +441,7 @@ main {
   gap: 7px;
   margin: 0;
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 13px;
 }
 
@@ -497,7 +498,7 @@ main {
 .content-section p {
   margin: 0;
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   line-height: 1.6;
 }
 
@@ -530,7 +531,7 @@ main {
 .promise-grid span {
   display: inline-flex;
   color: var(--wine);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-weight: 700;
 }
 
@@ -577,7 +578,7 @@ main {
 
 .about-pillars span {
   color: var(--wine);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-weight: 700;
 }
 
@@ -641,7 +642,7 @@ main {
 .contact-card dt,
 .contact-card dd,
 .contact-checklist li {
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
 }
 
 .contact-card dt {
@@ -681,7 +682,7 @@ main {
 .contact-strip span {
   margin-top: 8px;
   color: rgba(255, 250, 240, 0.76);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 13px;
 }
 
@@ -705,7 +706,7 @@ main {
 .contact-detail-section p,
 .contact-rfq-section p {
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   line-height: 1.6;
 }
 
@@ -723,7 +724,7 @@ main {
 
 .contact-detail-grid span {
   color: var(--wine);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-weight: 700;
 }
 
@@ -791,7 +792,7 @@ main {
 .line-summary span {
   margin-top: 8px;
   color: rgba(255, 250, 240, 0.76);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 13px;
 }
 
@@ -816,7 +817,7 @@ main {
 .line-article p {
   max-width: 980px;
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 16px;
   line-height: 1.65;
 }
@@ -907,7 +908,7 @@ main {
 .detail-section p {
   margin: 0;
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   line-height: 1.65;
 }
 
@@ -949,7 +950,7 @@ main {
 
 .related-card span {
   color: var(--wine);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 12px;
   font-weight: 700;
 }
@@ -971,7 +972,7 @@ main {
   margin-top: 14px;
   white-space: pre-wrap;
   color: var(--green);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 13px;
   line-height: 1.45;
 }
@@ -1037,7 +1038,7 @@ main {
   gap: 8px;
   padding-left: 18px;
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 14px;
 }
 
@@ -1052,7 +1053,7 @@ main {
   width: 100%;
   margin-top: 18px;
   border-collapse: collapse;
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 13px;
 }
 
@@ -1074,7 +1075,7 @@ main {
   border-top: 1px solid rgba(35, 70, 63, 0.22);
   background: var(--green);
   color: var(--steel);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 13px;
 }
 
@@ -1088,7 +1089,7 @@ main {
 .site-footer h3 {
   margin: 0 0 12px;
   color: var(--paper-2);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-ui);
   letter-spacing: 0;
 }
 

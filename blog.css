@@ -1,4 +1,4 @@
-/* Blog / Article styles — Balon Việt Nam. Bổ sung cho styles.css, giữ kiến trúc nhẹ. */
+﻿/* Blog / Article styles — Balon Việt Nam. Bổ sung cho styles.css, giữ kiến trúc nhẹ. */
 
 /* ── Font overrides ───────────────────────────────────────────────────────── */
 /* code / pre: monospace cho part number, dimension header, sample data */
@@ -20,12 +20,12 @@ pre {
 pre code { background: transparent; padding: 0; }
 
 /* Tables: sans-serif vì là dữ liệu kỹ thuật dạng tabular */
-.btable { font-family: Arial, sans-serif; }
+.btable { font-family: var(--font-ui); }
 
 /* UI elements: sans-serif */
-.article-meta { font-family: Arial, sans-serif; }
-.toc { font-family: Arial, sans-serif; }
-.callout { font-family: Arial, sans-serif; }
+.article-meta { font-family: var(--font-ui); }
+.toc { font-family: var(--font-ui); }
+.callout { font-family: var(--font-ui); }
 
 /* ── btn-fake: nút giả trong ref-card ───────────────────────────────────── */
 .btn-fake {
@@ -36,7 +36,7 @@ pre code { background: transparent; padding: 0; }
   padding: 7px 12px;
   background: var(--green);
   color: var(--paper-2, #fffaf0);
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   font-size: 0.80rem;
   font-weight: 700;
   letter-spacing: .02em;
@@ -52,7 +52,7 @@ pre code { background: transparent; padding: 0; }
   margin: 18px auto 0;
   padding: 0 22px;
   font-size: 0.82rem;
-  font-family: Arial, sans-serif;
+  font-family: var(--font-ui);
   color: var(--muted);
 }
 .blog-bc a { color: var(--steel); }
