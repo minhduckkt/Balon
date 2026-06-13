@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Blog Kỹ Thuật Van Balon — 24 Bài Viết Chuyên Sâu</title>
+    <meta name="description" content="Tổng hợp 24 bài viết kỹ thuật về van Balon chính hãng Mỹ: ANSI Class, Fire Safe, NACE MR0175, vật liệu, Cv sizing, IOM lắp đặt, RFQ, CO/CQ và ứng dụng ngành dầu khí, hóa chất.">
+    <link rel="canonical" href="https://balon.com.vn/blog/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Blog Kỹ Thuật Van Balon — 24 Bài Viết Chuyên Sâu">
+    <meta property="og:description" content="Kiến thức kỹ thuật van Balon chính hãng Mỹ: ANSI Class, Fire Safe API 6FA, NACE MR0175, IOM lắp đặt, Cv sizing, RFQ và CO/CQ — do Fast Group Company Limited biên soạn.">
+    <link rel="stylesheet" href="../styles.css?v=20260613l">
+    <link rel="stylesheet" href="../blog.css?v=20260613a">
+    <style>
+      .blog-listing { max-width: 1100px; margin: 0 auto; padding: 40px 24px 64px; }
+      .blog-listing h1 { font-size: clamp(1.6rem, 3vw, 2.2rem); color: var(--green); margin-bottom: 8px; }
+      .blog-listing .lead { color: var(--text-light, #555); max-width: 680px; margin-bottom: 40px; }
+
+      .filter-bar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 32px; }
+      .filter-btn {
+        padding: 6px 16px; border: 1px solid var(--line, #d5c9b0);
+        background: transparent; cursor: pointer; border-radius: 2px;
+        font-size: 0.85rem; color: var(--text, #2a2a2a);
+        transition: background 0.15s, color 0.15s;
+      }
+      .filter-btn.active, .filter-btn:hover {
+        background: var(--green, #23463f); color: #fff; border-color: var(--green, #23463f);
+      }
+
+      .article-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 20px;
+      }
+      .article-card {
+        border: 1px solid var(--line, #d5c9b0);
+        background: rgba(255,250,240,0.85);
+        padding: 22px 20px 18px;
+        display: flex; flex-direction: column; gap: 10px;
+        text-decoration: none; color: inherit;
+        transition: box-shadow 0.15s, border-color 0.15s;
+      }
+      .article-card:hover {
+        border-color: var(--green, #23463f);
+        box-shadow: 0 2px 12px rgba(35,70,63,0.12);
+      }
+      .article-card .cat {
+        font-size: 0.75rem; font-weight: 700; letter-spacing: .05em; text-transform: uppercase;
+        color: var(--wine, #8b2a2a);
+      }
+      .article-card h2 {
+        font-size: 1rem; line-height: 1.35; color: var(--green, #23463f); margin: 0;
+      }
+      .article-card p {
+        font-size: 0.85rem; line-height: 1.5; color: #555; margin: 0; flex: 1;
+      }
+      .article-card .read-more {
+        font-size: 0.82rem; color: var(--green, #23463f); font-weight: 600;
+      }
+
+      .hidden { display: none !important; }
+    </style>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="../index.html" aria-label="Balon Việt Nam"><span class="brand-mark">B</span><span><strong>Balon Việt Nam</strong><small>Fast Group Company Limited</small></span></a>
+      <nav class="topnav" aria-label="Điều hướng chính"><a href="../index.html">Trang chủ</a><div class="nav-group"><a href="../index.html#catalog">Sản phẩm</a><div class="nav-panel" aria-label="Dòng sản phẩm Balon"><a href="../san-pham/floating-ball-valves.html">Floating Ball Valves</a><a href="../san-pham/trunnion-ball-valves.html">Trunnion Ball Valves</a><a href="../san-pham/swing-check-valves.html">Swing Check Valves</a><a href="../san-pham/needle-valves.html">Needle Valves</a><a href="../san-pham/accessories.html">Accessories</a></div></div><a href="../blog/index.html">Blog</a><a href="../ve-chung-toi.html">Về chúng tôi</a><a href="../lien-he.html">Liên hệ</a></nav>
+    </header>
+
+    <nav class="blog-bc" aria-label="breadcrumb">
+      <a href="../index.html">Trang chủ</a><span>/</span>Blog kỹ thuật
+    </nav>
+
+    <main class="blog-listing">
+      <h1>Blog Kỹ Thuật Van Balon</h1>
+      <p class="lead">20 bài viết chuyên sâu về van Balon chính hãng Mỹ — từ kiến thức cơ bản, thông số kỹ thuật, tiêu chuẩn ngành đến ứng dụng thực tế và quy trình mua hàng.</p>
+
+      <div class="filter-bar" role="group" aria-label="Lọc theo chuyên mục">
+        <button class="filter-btn active" data-cat="all">Tất cả (24)</button>
+        <button class="filter-btn" data-cat="san-pham">Sản phẩm</button>
+        <button class="filter-btn" data-cat="ky-thuat">Kỹ thuật</button>
+        <button class="filter-btn" data-cat="tieu-chuan">Tiêu chuẩn</button>
+        <button class="filter-btn" data-cat="ung-dung">Ứng dụng</button>
+        <button class="filter-btn" data-cat="mua-hang">Mua hàng</button>
+      </div>
+
+      <div class="article-grid" id="articleGrid">
+
+        <!-- SẢN PHẨM -->
+        <a class="article-card" href="./van-balon-la-gi.html" data-cat="san-pham">
+          <span class="cat">Kiến thức cơ bản · Sản phẩm</span>
+          <h2>Van Balon là gì? Tổng quan các dòng van chính hãng Mỹ</h2>
+          <p>5 dòng sản phẩm Balon: floating, trunnion, swing check, needle valve — đặc điểm Made in USA, nhận biết hàng thật, ứng dụng điển hình.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./floating-ball-valve-balon.html" data-cat="san-pham">
+          <span class="cat">Sản phẩm · Floating Ball Valve</span>
+          <h2>Floating Ball Valve Balon: cấu tạo, nguyên lý &amp; cách chọn</h2>
+          <p>Series F &amp; S, dải áp tới 5000 PSI WP, vật liệu, kết nối — so sánh floating vs trunnion và khi nào dùng loại nào.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./trunnion-ball-valve-balon-series-t.html" data-cat="san-pham">
+          <span class="cat">Sản phẩm · Trunnion Ball Valve</span>
+          <h2>Trunnion Ball Valve Balon Series T — Van Bi Gối Đỡ Trục</h2>
+          <p>Cấu tạo gối đỡ trục, gearbox độc quyền, Fire Safe API 6FA + Low Emission API 641 — bảng ANSI Class 150–900.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./swing-check-valve-balon.html" data-cat="san-pham">
+          <span class="cat">Sản phẩm · Swing Check Valve</span>
+          <h2>Swing Check Valve Balon Series C &amp; D: nguyên lý chống dòng ngược</h2>
+          <p>Van một chiều Balon: nguyên lý clapper, dải size và vật liệu, ứng dụng ngăn chảy ngược trong pipeline và hệ bơm.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./needle-valve-balon.html" data-cat="san-pham">
+          <span class="cat">Sản phẩm · Needle Valve</span>
+          <h2>Needle Valve Balon: van kim cho instrumentation &amp; điều tiết chính xác</h2>
+          <p>Van kim điều tiết lưu lượng chính xác cho hệ instrumentation, lấy mẫu, đồng hồ đo áp — dải áp, kết nối và vật liệu.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <!-- KỸ THUẬT -->
+        <a class="article-card" href="./cach-doc-part-number-van-balon.html" data-cat="ky-thuat">
+          <span class="cat">Kỹ thuật · Hướng dẫn tra cứu</span>
+          <h2>Cách đọc part number van Balon: giải mã model hàng</h2>
+          <p>Ý nghĩa từng trường trong part number Balon: size, series, pressure class, material trim, end connection — ví dụ thực tế.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./vat-lieu-van-balon.html" data-cat="ky-thuat">
+          <span class="cat">Kỹ thuật · Vật liệu</span>
+          <h2>Vật liệu van Balon — Hướng dẫn chọn CS, SS, Ductile Iron &amp; Bronze</h2>
+          <p>So sánh 4 vật liệu thân van: Carbon Steel, 316 Stainless Steel, Ductile Iron và Aluminum Bronze — bảng chọn theo môi chất.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./ket-noi-van-balon-end-connection.html" data-cat="ky-thuat">
+          <span class="cat">Kỹ thuật · End Connection</span>
+          <h2>Kết nối van Balon: Threaded, Socket Weld, Flanged — chọn đúng cho hệ</h2>
+          <p>Phân biệt Threaded, Socket Weld, Flanged RF, Weld×Flange, Grooved, Wafer — điều kiện áp suất và ứng dụng từng loại.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./cv-sizing-van-balon.html" data-cat="ky-thuat">
+          <span class="cat">Kỹ thuật · Thông số · Sizing</span>
+          <h2>Cv &amp; sizing van: cách tính lưu lượng và chọn đúng size van Balon</h2>
+          <p>Hệ số Cv là gì, công thức tính cho lỏng &amp; khí, ví dụ chọn size theo lưu lượng — tránh oversizing và pressure drop quá cao.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./thiet-ke-van-balon-bolted-body-multi-seal.html" data-cat="ky-thuat">
+          <span class="cat">Kỹ thuật · Thiết kế</span>
+          <h2>Thiết kế Bolted Body &amp; Multi-Seal van Balon</h2>
+          <p>Bolted Body Construction vs screwed/welded body, anti-rotation end adapter, Multi-Seal 3 lớp — ưu điểm bảo trì tại hiện trường.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./bao-tri-van-bi-balon.html" data-cat="ky-thuat">
+          <span class="cat">Kỹ thuật · Bảo trì</span>
+          <h2>Bảo trì van bi Balon — Rò Seat, Stem &amp; Hướng dẫn Rebuild</h2>
+          <p>Nhận biết rò seat vs stem, quy trình rebuild tại hiện trường với bolted body, thay packing stem — safety/LOTO rules.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./doc-datasheet-cut-sheet-van-balon.html" data-cat="ky-thuat">
+          <span class="cat">Kỹ thuật · Tài liệu</span>
+          <h2>Đọc Datasheet &amp; Cut Sheet Van Balon — Giải thích Từng Cột Dimension</h2>
+          <p>Ý nghĩa cột A, B, C, D, E, F, G, Cv, LBS trong cut sheet — cách lấy đúng thông số cho layout, weight estimate và TBE.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <!-- TIÊU CHUẨN -->
+        <a class="article-card" href="./ansi-class-pressure-rating-van-balon.html" data-cat="tieu-chuan">
+          <span class="cat">Tiêu chuẩn · ANSI / ASME</span>
+          <h2>ANSI Class &amp; Pressure Rating Van Balon — Bảng Đối Chiếu Class 150–1500</h2>
+          <p>Bảng đối chiếu Class 150, 300, 600, 900, 1500 sang PSI thực tế, cách đọc class từ part number, MOP vs MAWP.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./van-balon-fire-safe-api-607-6fa.html" data-cat="tieu-chuan">
+          <span class="cat">Tiêu chuẩn · API 607 / 6FA</span>
+          <h2>Van Balon Fire Safe — Chứng nhận API 607 &amp; API 6FA</h2>
+          <p>Quy trình burn test 1400°F/30 phút, metal-to-metal backup seat, khi nào bắt buộc Fire Safe — so sánh API 607 vs 6FA.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./van-balon-low-emission-api-641.html" data-cat="tieu-chuan">
+          <span class="cat">Tiêu chuẩn · API 641 · ESG</span>
+          <h2>Van Balon Low Emission — Chứng nhận API 641 &amp; Fugitive Emission</h2>
+          <p>Fugitive emission là gì, giới hạn 100 ppm, 610 cycles test, live-loaded packing — so sánh API 641 vs ISO 15848, ESG context.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./van-balon-nace-mr0175-sour-service.html" data-cat="tieu-chuan">
+          <span class="cat">Tiêu chuẩn · NACE MR0175 · Sour Service</span>
+          <h2>Van Balon NACE MR0175 — Sour Service &amp; Môi trường H₂S</h2>
+          <p>Cơ chế SSC/HIC/SCC, ngưỡng H₂S sour service, 316SS ball &amp; stem, suffix N/SN — ứng dụng dầu khí Việt Nam.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <!-- ỨNG DỤNG -->
+        <a class="article-card" href="./van-balon-nganh-dau-khi-viet-nam.html" data-cat="ung-dung">
+          <span class="cat">Ứng dụng · Dầu khí · EPC</span>
+          <h2>Van Balon trong ngành Dầu khí Việt Nam — EPC, VSP &amp; PTSC</h2>
+          <p>Ứng dụng tại VSP, PTSC, EPC contractor — yêu cầu Fire Safe + NACE kết hợp, MR checklist, chứng từ nhập khẩu.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./van-balon-nganh-hoa-chat.html" data-cat="ung-dung">
+          <span class="cat">Ứng dụng · Hóa chất · Process</span>
+          <h2>Van Balon ngành Hóa chất — 316SS, Bronze &amp; Low Emission cho Process Plant</h2>
+          <p>Thách thức ăn mòn trong process plant, chọn 316SS vs Aluminum Bronze, bảng tương thích hóa chất 10 môi chất, Low Emission.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <!-- MUA HÀNG -->
+        <a class="article-card" href="./nha-phan-phoi-van-balon-viet-nam.html" data-cat="mua-hang">
+          <span class="cat">Mua hàng · Vendor Registration</span>
+          <h2>Nhà phân phối &amp; đại lý van Balon chính hãng tại Việt Nam</h2>
+          <p>Fast Group — mô hình behind-vendor supplier: hàng chính hãng, CO/CQ gốc, hỗ trợ vendor registration và TBE submission.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./quy-trinh-rfq-co-cq-van-balon.html" data-cat="mua-hang">
+          <span class="cat">Mua hàng · RFQ · CO / CQ</span>
+          <h2>Quy trình RFQ, CO &amp; CQ Van Balon — Nhập khẩu Chính hãng từ Mỹ</h2>
+          <p>Từ RFQ → PO → CO/CQ → clearance → delivery: hướng dẫn đầy đủ, lead time điển hình, bộ chứng từ nhập khẩu.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./lap-dat-van-balon-floating-ball-valve.html" data-cat="ky-thuat">
+          <span class="cat">Kỹ thuật · Lắp đặt · IOM</span>
+          <h2>Lắp đặt, Vận hành &amp; Bảo trì Floating Ball Valve Balon</h2>
+          <p>Hướng dẫn IOM chính hãng 2025: storage, installation, pressure testing (shell/seat), P/T limits WCB/LCC đầy đủ, vận hành đúng và 7 sai lầm cần tránh.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./lap-dat-van-balon-trunnion-ball-valve.html" data-cat="ky-thuat">
+          <span class="cat">Kỹ thuật · Lắp đặt · IOM</span>
+          <h2>Lắp đặt, Vận hành &amp; Bảo trì Trunnion Ball Valve Balon</h2>
+          <p>IOM chính hãng: nâng chuyển đúng cách, body bleed fitting, double block and bleed (DBB), residual pressure warning và secondary sealing bằng grease injection.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./lap-dat-van-balon-swing-check-valve.html" data-cat="ky-thuat">
+          <span class="cat">Kỹ thuật · Lắp đặt · IOM</span>
+          <h2>Lắp đặt, Vận hành &amp; Bảo trì Swing Check Valve Balon</h2>
+          <p>Hướng lắp đúng trên đường ngang và đường đứng (yêu cầu hinge pin ít ai biết), pressure testing đặc thù của check valve và thay disc/cartridge khi cần.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+        <a class="article-card" href="./lap-dat-van-balon-needle-valve.html" data-cat="ky-thuat">
+          <span class="cat">Kỹ thuật · Lắp đặt · IOM</span>
+          <h2>Lắp đặt, Vận hành &amp; Bảo trì Needle Valve Balon — 6.000 PSI &amp; 10.000 PSI</h2>
+          <p>Phân biệt 6.000 PSI resilient seat (không được throttle) vs 10.000 PSI metal seat (metering cho phép) — hai dòng vận hành hoàn toàn khác nhau. Kèm quy tắc an toàn đặc thù.</p>
+          <span class="read-more">Đọc bài →</span>
+        </a>
+
+      </div><!-- /article-grid -->
+    </main>
+
+    <div style="text-align:center;padding:24px 0 48px;">
+      <a href="../lien-he.html" class="button primary">Gửi RFQ — van Balon chính hãng</a>
+    </div>
+
+    <footer class="site-footer">
+      <div class="footer-grid">
+        <div>
+          <h2>Balon Việt Nam</h2>
+          <p>Nhà phân phối van Balon chính hãng xuất xứ Mỹ cho vendor tại Việt Nam. Được vận hành bởi Fast Group Company Limited.</p>
+        </div>
+        <div>
+          <h3>Sản phẩm</h3>
+          <a href="../san-pham/floating-ball-valves.html">Floating Ball Valves</a>
+          <a href="../san-pham/trunnion-ball-valves.html">Trunnion Ball Valves</a>
+          <a href="../san-pham/swing-check-valves.html">Swing Check Valves</a>
+          <a href="../san-pham/needle-valves.html">Needle Valves</a>
+        </div>
+        <div>
+          <h3>Blog kỹ thuật</h3>
+          <a href="./van-balon-la-gi.html">Van Balon là gì?</a>
+          <a href="./vat-lieu-van-balon.html">Vật liệu van Balon</a>
+          <a href="./ansi-class-pressure-rating-van-balon.html">ANSI Class &amp; Pressure Rating</a>
+          <a href="./van-balon-nace-mr0175-sour-service.html">NACE MR0175 Sour Service</a>
+        </div>
+        <div>
+          <h3>Thông tin công ty</h3>
+          <p>Fast Group Company Limited<br>MST: 0315555189<br>Email: sales@balon.com.vn<br>Chính hãng - xuất xứ Mỹ - nhập khẩu - chứng từ</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© Balon Việt Nam - Fast Group Company Limited</span>
+        <span>Bảo vệ thông tin khách của vendor và xác nhận giá theo từng RFQ.</span>
+      </div>
+    </footer>
+
+    <script>
+      const btns = document.querySelectorAll('.filter-btn');
+      const cards = document.querySelectorAll('.article-card');
+      btns.forEach(btn => {
+        btn.addEventListener('click', () => {
+          btns.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          const cat = btn.dataset.cat;
+          cards.forEach(card => {
+            if (cat === 'all' || card.dataset.cat === cat) {
+              card.classList.remove('hidden');
+            } else {
+              card.classList.add('hidden');
+            }
+          });
+        });
+      });
+    </script>
+  </body>
+</html>

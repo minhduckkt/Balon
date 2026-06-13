@@ -1,0 +1,265 @@
+﻿<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Đọc Datasheet &amp; Cut Sheet Van Balon — Giải Thích Từng Cột Dimension</title>
+    <meta name="description" content="Hướng dẫn đọc cut sheet và datasheet van Balon: giải thích từng cột A, B, C, D, E, F, G, Cv, LBS — lấy đúng thông số để lập hồ sơ kỹ thuật và kiểm tra kích thước lắp đặt.">
+    <link rel="canonical" href="https://balon.com.vn/blog/doc-datasheet-cut-sheet-van-balon.html">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Đọc Datasheet &amp; Cut Sheet Van Balon — Giải Thích Từng Cột Dimension">
+    <meta property="og:description" content="Giải thích bảng dimension Balon: cột A B C D E F G Cv LBS — lấy đúng thông số lắp đặt, kiểm tra Cv và tra part number từ cut sheet.">
+    <link rel="stylesheet" href="../styles.css?v=20260613l">
+    <link rel="stylesheet" href="../blog.css?v=20260613a">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Đọc Datasheet &amp; Cut Sheet Van Balon — Giải Thích Từng Cột Dimension",
+      "description": "Hướng dẫn đọc bảng dimension trong cut sheet van Balon: ý nghĩa từng cột A/B/C/D/E/F/G, Cv, LBS và cách lấy thông số cho hồ sơ kỹ thuật.",
+      "inLanguage": "vi",
+      "datePublished": "2026-06-13",
+      "author": { "@type": "Organization", "name": "Fast Group Company Limited" },
+      "publisher": { "@type": "Organization", "name": "Balon Việt Nam - Fast Group Company Limited" }
+    }
+    </script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="../index.html" aria-label="Balon Việt Nam"><span class="brand-mark">B</span><span><strong>Balon Việt Nam</strong><small>Fast Group Company Limited</small></span></a>
+      <nav class="topnav" aria-label="Điều hướng chính"><a href="../index.html">Trang chủ</a><div class="nav-group"><a href="../index.html#catalog">Sản phẩm</a><div class="nav-panel" aria-label="Dòng sản phẩm Balon"><a href="../san-pham/floating-ball-valves.html">Floating Ball Valves</a><a href="../san-pham/trunnion-ball-valves.html">Trunnion Ball Valves</a><a href="../san-pham/swing-check-valves.html">Swing Check Valves</a><a href="../san-pham/needle-valves.html">Needle Valves</a><a href="../san-pham/accessories.html">Accessories</a></div></div><a href="../blog/index.html">Blog</a><a href="../ve-chung-toi.html">Về chúng tôi</a><a href="../lien-he.html">Liên hệ</a></nav>
+    </header>
+
+    <nav class="blog-bc" aria-label="breadcrumb">
+      <a href="../index.html">Trang chủ</a><span>/</span><a href="../index.html#blog">Blog</a><span>/</span>Đọc datasheet &amp; cut sheet van Balon
+    </nav>
+
+    <article>
+      <header class="article-hero">
+        <p class="eyebrow">Kỹ thuật van Balon</p>
+        <h1>Đọc Datasheet &amp; Cut Sheet Van Balon — Giải Thích Từng Cột Dimension</h1>
+        <p class="lead">Cut sheet van Balon chứa bảng dimension với các cột ký hiệu A, B, C, D, E, F, G, Cv và LBS — những thông số kỹ thuật thiết yếu cho thiết kế lắp đặt, kiểm tra clearance và tính toán thủy lực. Bài viết giải thích ý nghĩa từng cột, cách đọc đúng và những lỗi phổ biến khi tra datasheet.</p>
+        <div class="article-meta">
+          <span><strong>Chuyên mục:</strong> Kỹ thuật</span>
+          <span><strong>Cập nhật:</strong> 13/06/2026</span>
+          <span><strong>Người viết:</strong> Fast Group — Balon Việt Nam</span>
+          <span><strong>Đọc:</strong> ~10 phút</span>
+        </div>
+      </header>
+
+      <figure class="hero-figure">
+        <img src="../data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF-Exploded.jpg" alt="Exploded view trunnion ball valve Balon 10F-T13-RF — các thành phần và dimension">
+        <figcaption>Exploded view Balon 10F-T13-RF (Trunnion Class 150) — mỗi dimension trong cut sheet tương ứng với kích thước xác định trên bản vẽ này.</figcaption>
+      </figure>
+
+      <div class="article-body">
+        <div class="toc" aria-label="Mục lục">
+          <strong>Nội dung chính</strong>
+          <ol>
+            <li><a href="#cut-sheet-la-gi">Cut sheet là gì và tải ở đâu</a></li>
+            <li><a href="#cac-cot-floating">Giải thích bảng dimension — Floating Ball Valve</a></li>
+            <li><a href="#cac-cot-trunnion">Giải thích bảng dimension — Trunnion Ball Valve</a></li>
+            <li><a href="#cv">Cv — Flow Coefficient là gì và dùng khi nào</a></li>
+            <li><a href="#lbs">LBS (trọng lượng) — tại sao quan trọng cho đặt hàng</a></li>
+            <li><a href="#loi-thuong-gap">Lỗi phổ biến khi đọc cut sheet</a></li>
+          </ol>
+        </div>
+
+        <h2 id="cut-sheet-la-gi">1. Cut sheet là gì và tải ở đâu</h2>
+        <p><strong>Cut sheet</strong> (hay product data sheet / catalog page) là tài liệu một vài trang tóm tắt đầy đủ thông số kỹ thuật của một nhóm van: part number, vật liệu, áp suất rated, kết nối, bảng kích thước (dimension table) và bản vẽ outline. Đây là tài liệu dùng để:</p>
+        <ul>
+          <li>Kiểm tra <em>face-to-face dimension</em> (chiều dài từ mặt bích tới mặt bích) khi thay thế van hiện hữu.</li>
+          <li>Kiểm tra <em>clearance</em> (khoảng không gian xung quanh) cho tay gạt hoặc gearbox.</li>
+          <li>Lấy trọng lượng (LBS) cho tính toán tải đỡ đường ống.</li>
+          <li>Xác nhận Cv cho tính toán pressure drop.</li>
+          <li>Submittal kỹ thuật (attach vào TBE khi đấu thầu).</li>
+        </ul>
+        <p>Cut sheet van Balon có sẵn tại website Balon (balon.com) dưới từng group sản phẩm, hoặc yêu cầu trực tiếp qua Fast Group theo part number cụ thể.</p>
+
+        <h2 id="cac-cot-floating">2. Giải thích bảng dimension — Floating Ball Valve</h2>
+        <p>Bảng dimension trong cut sheet floating ball valve Balon thường có header:</p>
+        <p><code>SIZE | CATALOG NUMBER | PORT | WP | A | B | C | D | E | F | LBS. | Cv</code></p>
+        <p>Giải thích từng cột:</p>
+
+        <div class="btable-wrap">
+          <table class="btable">
+            <thead>
+              <tr><th>Cột</th><th>Ý nghĩa</th><th>Đơn vị</th><th>Dùng cho</th></tr>
+            </thead>
+            <tbody>
+              <tr><td><strong>SIZE</strong></td><td>Kích thước đường ống danh nghĩa × port size × outlet size (ví dụ: .25 × .375 × .25)</td><td>inch</td><td>Xác nhận đúng size đặt hàng</td></tr>
+              <tr><td><strong>CATALOG NUMBER</strong></td><td>Part number đầy đủ (và part number vật liệu thay thế trong cùng nhóm)</td><td>—</td><td>Đặt hàng, cross-reference</td></tr>
+              <tr><td><strong>PORT</strong></td><td>Đường kính lỗ thông của bi (bore diameter) — Full Port = bằng ID ống; Reduced Port = nhỏ hơn ID ống</td><td>inch</td><td>Tính pressure drop; pigging requirement</td></tr>
+              <tr><td><strong>WP</strong></td><td>Working Pressure tại 100°F (chỉ có ở series non-ANSI)</td><td>PSI</td><td>Xác nhận đúng pressure class</td></tr>
+              <tr><td><strong>A</strong></td><td>Face-to-Face (F-F): chiều dài từ mặt end connector phía này đến mặt end connector phía kia — đo theo trục dòng chảy</td><td>inch</td><td>Kiểm tra khoảng hở khi thay van, layout</td></tr>
+              <tr><td><strong>B</strong></td><td>End-to-End của thân van (body width): chiều rộng thân van đo theo trục vuông góc với dòng chảy</td><td>inch</td><td>Clearance phía bên</td></tr>
+              <tr><td><strong>C</strong></td><td>Chiều cao tổng thể (Height): từ đáy van tới đỉnh tay gạt hoặc gland — khoảng không gian cần phía trên van</td><td>inch</td><td>Clearance phía trên, không gian vận hành</td></tr>
+              <tr><td><strong>D</strong></td><td>Chiều dài tay gạt (Handle length) hoặc đường kính handwheel</td><td>inch</td><td>Clearance khi xoay tay gạt 90°</td></tr>
+              <tr><td><strong>E</strong></td><td>Chiều cao từ tâm đường ống đến đỉnh tay gạt (Centerline to Top of Handle)</td><td>inch</td><td>Clearance phía trên tính từ pipe CL</td></tr>
+              <tr><td><strong>F</strong></td><td>Chiều cao từ đáy van đến tâm đường ống (Bottom of Valve to Pipe CL)</td><td>inch</td><td>Khoảng cách cần khi đỡ bên dưới</td></tr>
+              <tr><td><strong>LBS.</strong></td><td>Trọng lượng van (net weight, không bao gồm actuator)</td><td>pound (lb)</td><td>Tải đỡ đường ống, logistic</td></tr>
+              <tr><td><strong>Cv</strong></td><td>Flow coefficient ở full-open — xem mục bên dưới</td><td>—</td><td>Pressure drop calculation</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h2 id="cac-cot-trunnion">3. Giải thích bảng dimension — Trunnion Ball Valve</h2>
+        <p>Trunnion cut sheet dùng ký hiệu tương tự nhưng bỏ cột WP (vì Trunnion luôn là ANSI Class) và thêm cột G:</p>
+        <p><code>SIZE | CATALOG NUMBER | PORT | A | B | C | D | E | F | G | LBS.</code></p>
+
+        <div class="btable-wrap">
+          <table class="btable">
+            <thead>
+              <tr><th>Cột</th><th>Ý nghĩa với Trunnion</th><th>Đơn vị</th></tr>
+            </thead>
+            <tbody>
+              <tr><td><strong>A</strong></td><td>Face-to-Face (ASME B16.10 standard length)</td><td>inch</td></tr>
+              <tr><td><strong>B</strong></td><td>Body width (chiều rộng thân)</td><td>inch</td></tr>
+              <tr><td><strong>C</strong></td><td>Flange OD (đường kính ngoài mặt bích)</td><td>inch</td></tr>
+              <tr><td><strong>D</strong></td><td>Bolt circle diameter (BCD — đường kính vòng tròn bu-lông mặt bích)</td><td>inch</td></tr>
+              <tr><td><strong>E</strong></td><td>Chiều cao từ CL đường ống đến đỉnh gearbox (Height CL to top)</td><td>inch</td></tr>
+              <tr><td><strong>F</strong></td><td>Chiều cao từ đáy van đến CL đường ống</td><td>inch</td></tr>
+              <tr><td><strong>G</strong></td><td>Chiều rộng gearbox (handwheel width) — đặc thù cho trunnion</td><td>inch</td></tr>
+              <tr><td><strong>LBS.</strong></td><td>Trọng lượng van + gearbox (assembled)</td><td>pound (lb)</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <p>Ví dụ thực tế từ cut sheet 10F-T13-RF (Trunnion 10", Class 150):</p>
+        <div class="btable-wrap">
+          <table class="btable">
+            <thead>
+              <tr><th>SIZE</th><th>PN</th><th>PORT</th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th><th>LBS</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>10×10×10</td><td>10F-T13-RF</td><td>10"</td><td>20.00</td><td>10.00</td><td>18.00</td><td>17.75</td><td>22</td><td>16.25</td><td>18.12</td><td>810</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Đọc: van 10", Class 150, face-to-face 20.00 inch, mặt bích OD 18.00 inch, trọng lượng 810 lb. Khoảng không phía trên từ CL ống cần 22 inch (cột E). Khoảng không phía dưới từ CL ống cần 16.25 inch (cột F).</p>
+
+        <h2 id="cv">4. Cv — Flow Coefficient là gì và dùng khi nào</h2>
+        <p><strong>Cv</strong> (Flow Coefficient) là hệ số thủy lực đặc trưng cho van: <em>số gallon nước (60°F) chảy qua van ở fully open với pressure drop 1 PSI trong 1 phút</em>. Công thức tính pressure drop:</p>
+        <p style="text-align:center; font-style:italic;">ΔP = (Q / Cv)² × SG</p>
+        <p>Trong đó Q = flow rate (GPM), SG = specific gravity của lưu chất (nước = 1.0), ΔP = pressure drop (PSI).</p>
+        <p>Ball valve Balon thường có Cv cao (low pressure drop) vì thiết kế full-bore hoặc reduced-bore port lớn. Ví dụ:</p>
+        <div class="btable-wrap">
+          <table class="btable">
+            <thead>
+              <tr><th>Part Number</th><th>Size</th><th>Port</th><th>Cv</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>1/4F-F03N-SE</td><td>1/4"</td><td>0.37"</td><td>— (rất nhỏ, instrumentation)</td></tr>
+              <tr><td>2R-S32-GE</td><td>2"</td><td>Reduced</td><td>~130 (typical S series 2")</td></tr>
+              <tr><td>4F-T63-RF</td><td>4" Trunnion</td><td>Full 4"</td><td>~800 (typical 4" full bore)</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>Cv quan trọng khi van nằm trong tuyến có yêu cầu pressure drop thấp (process line, đường ống dài) hoặc khi sizing control valve. Với on/off ball valve thông thường, Cv chỉ cần kiểm tra để xác nhận không tạo bottleneck.</p>
+
+        <h2 id="lbs">5. LBS (trọng lượng) — tại sao quan trọng cho đặt hàng</h2>
+        <p>Trọng lượng van (LBS) trong cut sheet là <strong>net weight của van assembled</strong>, không bao gồm bao bì vận chuyển và actuator (nếu là actuated valve). Trọng lượng cần thiết cho:</p>
+        <ul>
+          <li><strong>Pipe support calculation</strong>: kỹ sư cơ khí cần biết concentrated load tại vị trí van để thiết kế support đúng.</li>
+          <li><strong>Shipping weight</strong>: gross weight = net weight × 1.3–1.5 (bao bì + kiện gỗ), cần cho khai báo hải quan và phí vận chuyển.</li>
+          <li><strong>Lifting</strong>: van trunnion size lớn (10"–12") có thể nặng 800–1200 lb — cần crane, không thể handle tay.</li>
+          <li><strong>Flange loading check</strong>: với flanged valve nặng, cần kiểm tra bending moment tại flange joint để tránh gasket leak do tải trọng van.</li>
+        </ul>
+
+        <h2 id="loi-thuong-gap">6. Lỗi phổ biến khi đọc cut sheet</h2>
+        <div class="btable-wrap">
+          <table class="btable">
+            <thead>
+              <tr><th>Lỗi</th><th>Hậu quả</th><th>Cách tránh</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Nhầm A (face-to-face) với B (body width)</td><td>Layout sai, van không vừa khoảng hở</td><td>Tra đúng label trên bản vẽ cut sheet</td></tr>
+              <tr><td>Dùng Cv của reduced-port thay full-port</td><td>Tính pressure drop thấp hơn thực tế</td><td>Kiểm tra cột PORT trong bảng dimension</td></tr>
+              <tr><td>Nhầm LBS với gross shipping weight</td><td>Khai báo hải quan sai, thiếu space trong shipping</td><td>Nhân thêm 1.3–1.5 cho gross weight</td></tr>
+              <tr><td>Đọc cut sheet sai revision</td><td>Dimension có thể thay đổi giữa các catalog revision</td><td>Dùng cut sheet mới nhất từ website Balon hoặc qua Fast Group</td></tr>
+              <tr><td>Nhầm Handle clearance (D) với F-F (A)</td><td>Va chạm tay gạt với kết cấu lân cận</td><td>Kiểm tra đủ cả A, C, D, E cho layout 3D</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="callout brass">
+          <p><strong>Tip khi lập hồ sơ:</strong> khi submittal kỹ thuật, attach nguyên file cut sheet PDF gốc từ Balon — không tự tạo bảng dimension riêng. Cut sheet gốc có đủ revision number, date và approval stamp của nhà sản xuất, đủ điều kiện làm IOM (Installation &amp; Operation Manual) reference.</p>
+        </div>
+      </div>
+
+      <section class="ref-block">
+        <p class="eyebrow">Sản phẩm với Cut Sheet đầy đủ</p>
+        <h2>Van Balon — Cut Sheet &amp; Dimension Table</h2>
+        <div class="ref-grid">
+          <a class="ref-card" href="../san-pham/trunnion-ball-valves/6f-t13-rf.html">
+            <img src="../data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF-Exploded.jpg" alt="Trunnion 6F-T13-RF exploded view dimension">
+            <span class="body"><span class="pn">6F-T13-RF</span><h3>Trunnion Class 150 — Cut Sheet</h3><small>6", CS RF, F-F A=15.50", 370 LBS</small><span class="btn-fake">Xem chi tiết</span></span>
+          </a>
+          <a class="ref-card" href="../san-pham/floating-ball-valves/1-4f-f03n-se.html">
+            <img src="../data/assets/images/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.jpg" alt="Floating 1/4F-F03N-SE dimension cut sheet">
+            <span class="body"><span class="pn">1/4F-F03N-SE</span><h3>Floating 3000 PSI — Cut Sheet</h3><small>1/4", screwed, A=1.75", 1.0 LBS</small><span class="btn-fake">Xem chi tiết</span></span>
+          </a>
+          <a class="ref-card" href="../san-pham/trunnion-ball-valves/4f-t63-rf.html">
+            <img src="../data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg" alt="Trunnion 4F-T63-RF cut sheet dimension">
+            <span class="body"><span class="pn">4F-T63-RF</span><h3>Trunnion Class 600 — Cut Sheet</h3><small>4", CS RF, Fire Safe, full dimension table</small><span class="btn-fake">Xem chi tiết</span></span>
+          </a>
+          <a class="ref-card" href="../san-pham/floating-ball-valves/2r-s93-se.html">
+            <img src="../data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg" alt="Floating 2R-S93-SE Series S dimension table">
+            <span class="body"><span class="pn">2R-S93-SE</span><h3>Floating 5000 PSI — Cut Sheet</h3><small>2", Series S, socket end, Cv table</small><span class="btn-fake">Xem chi tiết</span></span>
+          </a>
+        </div>
+      </section>
+
+      <div class="article-cta">
+        <div>
+          <h2>Cần cut sheet hoặc dimension data cho van Balon?</h2>
+          <p>Gửi part number — Fast Group cung cấp cut sheet PDF gốc từ Balon, kèm hỗ trợ đọc dimension và báo giá.</p>
+        </div>
+        <div class="actions">
+          <a class="button primary" href="../lien-he.html">Yêu cầu cut sheet</a>
+          <a class="button secondary" href="../index.html#documents">Tải tài liệu kỹ thuật</a>
+        </div>
+      </div>
+
+      <section class="related">
+        <h2>Bài viết liên quan</h2>
+        <div class="related-grid">
+          <a href="./cach-doc-part-number-van-balon.html"><span>KỸ THUẬT</span>Cách đọc part number van Balon</a>
+          <a href="./cv-sizing-van-balon.html"><span>KỸ THUẬT</span>Cv sizing van Balon</a>
+          <a href="./ansi-class-pressure-rating-van-balon.html"><span>KỸ THUẬT</span>ANSI Class &amp; Pressure Rating van Balon</a>
+        </div>
+      </section>
+    </article>
+
+    <footer class="site-footer">
+      <div class="footer-grid">
+        <div>
+          <h2>Balon Việt Nam</h2>
+          <p>Nhà phân phối van Balon chính hãng xuất xứ Mỹ cho vendor tại Việt Nam. Được vận hành bởi Fast Group Company Limited.</p>
+        </div>
+        <div>
+          <h3>Sản phẩm</h3>
+          <a href="../san-pham/floating-ball-valves.html">Floating Ball Valves</a>
+          <a href="../san-pham/trunnion-ball-valves.html">Trunnion Ball Valves</a>
+          <a href="../san-pham/swing-check-valves.html">Swing Check Valves</a>
+          <a href="../san-pham/needle-valves.html">Needle Valves</a>
+        </div>
+        <div>
+          <h3>Dịch vụ</h3>
+          <a href="../index.html#rfq">RFQ qua kênh vendor</a>
+          <a href="../index.html#documents">Datasheet &amp; catalog</a>
+          <a href="../index.html#blog">Blog kỹ thuật</a>
+          <a href="../lien-he.html">Liên hệ vendor</a>
+        </div>
+        <div>
+          <h3>Thông tin công ty</h3>
+          <p>Fast Group Company Limited<br>MST: 0315555189<br>Email: sales@balon.com.vn<br>Chính hãng - xuất xứ Mỹ - nhập khẩu - chứng từ</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© Balon Việt Nam - Fast Group Company Limited</span>
+        <span>Bảo vệ thông tin khách của vendor và xác nhận giá theo từng RFQ.</span>
+      </div>
+    </footer>
+  </body>
+</html>
