@@ -1101,16 +1101,17 @@ main {
 
 .site-footer .footer-title {
   color: #fffaf0;
-  font-size: clamp(38px, 5vw, 56px);
-  line-height: 0.95;
+  font-size: 19px;
+  line-height: 1.18;
   text-transform: uppercase;
 }
 
 .site-footer .footer-operator {
-  margin: 8px 0 14px;
-  color: rgba(255, 250, 240, 0.58);
-  font-size: 12px;
-  font-weight: 600;
+  margin: 10px 0 0;
+  color: rgba(255, 250, 240, 0.75);
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.55;
 }
 
 .footer-badges {
