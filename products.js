@@ -1,4 +1,4 @@
-window.BALON_SITE_DATA = {
+﻿window.BALON_SITE_DATA = {
   "collections": {
     "lines": [
       "Floating Ball Valves",
@@ -82,7 +82,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -123,7 +123,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -164,7 +164,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -205,7 +205,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -246,7 +246,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -287,7 +287,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -328,7 +328,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -369,7 +369,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -410,7 +410,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -451,7 +451,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -492,7 +492,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -533,7 +533,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT285psi1/10F-T13-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T13.pdf",
@@ -574,7 +574,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -615,7 +615,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -656,7 +656,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -697,7 +697,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -738,7 +738,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -779,7 +779,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -820,7 +820,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -861,7 +861,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -902,7 +902,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -943,7 +943,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -984,7 +984,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -1025,7 +1025,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT740psi8/tbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/8F-T33-RF.pdf",
@@ -1066,7 +1066,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1107,7 +1107,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1148,7 +1148,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1189,7 +1189,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1230,7 +1230,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1271,7 +1271,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1312,7 +1312,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1353,7 +1353,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1394,7 +1394,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1435,7 +1435,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1476,7 +1476,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1517,7 +1517,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1558,7 +1558,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1599,7 +1599,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1640,7 +1640,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT1480psi48/tbvCSMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T63-RF.pdf",
@@ -1681,7 +1681,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT2220psi4/4F-T93.Picture.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT2220psi4/4F-T93.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T93-RF.pdf",
@@ -1722,7 +1722,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT2220psi4/4F-T93.Picture.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT2220psi4/4F-T93.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T93-RF.pdf",
@@ -1763,7 +1763,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "Multi-Seal Seats (See page B-5 )"
       ],
-      "image": "data/assets/images/Trunnion Ball Valves/SeriesT2220psi4/4F-T93.Picture.jpg",
+      "image": "data/assets/image/Trunnion Ball Valves/SeriesT2220psi4/4F-T93.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-T93-RF.pdf",
@@ -1803,7 +1803,7 @@ window.BALON_SITE_DATA = {
         "Split Seat Design",
         "Maximum Temp 200°"
       ],
-      "image": "data/assets/images/Needle Valves/6000psiCSresilient/N4Blue-Picture.jpg",
+      "image": "data/assets/image/Needle Valves/6000psiCSresilient/N4Blue-Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/N-263.pdf",
@@ -1835,7 +1835,7 @@ window.BALON_SITE_DATA = {
         "Precise Metering",
         "Maximum Temp 200°"
       ],
-      "image": "data/assets/images/Needle Valves/10000psiCSmetal/10000psiCSmetal-img1.jpg",
+      "image": "data/assets/image/Needle Valves/10000psiCSmetal/10000psiCSmetal-img1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/N-203.pdf",
@@ -1869,7 +1869,7 @@ window.BALON_SITE_DATA = {
         "Split Seat Design",
         "Maximum Temp 200°"
       ],
-      "image": "data/assets/images/Needle Valves/6000psiSSresilient/6000psiSSresilient-img1.jpg",
+      "image": "data/assets/image/Needle Valves/6000psiSSresilient/6000psiSSresilient-img1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/N-265.pdf",
@@ -1901,7 +1901,7 @@ window.BALON_SITE_DATA = {
         "Precise Metering",
         "Maximum Temp 200°"
       ],
-      "image": "data/assets/images/Needle Valves/10000psiSSmetal/10000psiSSmetal-img1.jpg",
+      "image": "data/assets/image/Needle Valves/10000psiSSmetal/10000psiSSmetal-img1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/N-205.pdf",
@@ -1936,7 +1936,7 @@ window.BALON_SITE_DATA = {
         "316 Stainless Steel Ball and Stem Standard",
         "Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesLM3000PSI/fbvCSMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesLM3000PSI/fbvCSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/LM-02362.pdf",
@@ -1971,7 +1971,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1-4F-F03NL-SE.pdf",
@@ -2012,7 +2012,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1-4F-F03NL-SE.pdf",
@@ -2053,7 +2053,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1-4F-F03NL-SE.pdf",
@@ -2094,7 +2094,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1-4F-F03NL-SE.pdf",
@@ -2135,7 +2135,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1-4F-F03NL-SE.pdf",
@@ -2176,7 +2176,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1-4F-F03NL-SE.pdf",
@@ -2217,7 +2217,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1-4F-F03NL-SE.pdf",
@@ -2258,7 +2258,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1-4F-F03NL-SE.pdf",
@@ -2299,7 +2299,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1-4F-F03NL-SE.pdf",
@@ -2340,7 +2340,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF3000psi141LF2/1-4F-F03NL-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1-4F-F03NL-SE.pdf",
@@ -2381,7 +2381,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesSocketWeld/socketweld.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesSocketWeld/socketweld.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1R-F03N-SWSE.pdf",
@@ -2422,7 +2422,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesSocketWeld/socketweld.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesSocketWeld/socketweld.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1R-F03N-SWSE.pdf",
@@ -2463,7 +2463,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Low-Torque Operation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesSocketWeld/socketweld.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesSocketWeld/socketweld.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1R-F03N-SWSE.pdf",
@@ -2504,7 +2504,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2545,7 +2545,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2586,7 +2586,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2627,7 +2627,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2668,7 +2668,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2709,7 +2709,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2750,7 +2750,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2791,7 +2791,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2832,7 +2832,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2873,7 +2873,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2914,7 +2914,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2955,7 +2955,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/2R-S93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S93-SE.pdf",
@@ -2996,7 +2996,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3037,7 +3037,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3078,7 +3078,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3119,7 +3119,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3160,7 +3160,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3201,7 +3201,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3242,7 +3242,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3283,7 +3283,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3324,7 +3324,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3365,7 +3365,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3406,7 +3406,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3447,7 +3447,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3488,7 +3488,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3529,7 +3529,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3570,7 +3570,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3611,7 +3611,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3652,7 +3652,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3693,7 +3693,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3734,7 +3734,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3775,7 +3775,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3816,7 +3816,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3857,7 +3857,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3898,7 +3898,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3939,7 +3939,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -3980,7 +3980,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -4021,7 +4021,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -4062,7 +4062,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -4103,7 +4103,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -4144,7 +4144,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -4185,7 +4185,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -4226,7 +4226,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -4267,7 +4267,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -4308,7 +4308,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -4349,7 +4349,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvCSMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-SE.pdf",
@@ -4390,7 +4390,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4431,7 +4431,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4472,7 +4472,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4513,7 +4513,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4554,7 +4554,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4595,7 +4595,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4636,7 +4636,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4677,7 +4677,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4718,7 +4718,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4759,7 +4759,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4800,7 +4800,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4841,7 +4841,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4882,7 +4882,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4923,7 +4923,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -4964,7 +4964,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -5005,7 +5005,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -5046,7 +5046,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -5087,7 +5087,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -5128,7 +5128,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -5169,7 +5169,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -5210,7 +5210,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -5251,7 +5251,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -5292,7 +5292,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi26/fbvCSMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F13-RF.pdf",
@@ -5333,7 +5333,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5374,7 +5374,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5415,7 +5415,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5456,7 +5456,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5497,7 +5497,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5538,7 +5538,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5579,7 +5579,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5620,7 +5620,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5661,7 +5661,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5702,7 +5702,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5743,7 +5743,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5784,7 +5784,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5825,7 +5825,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi610/fbvCSMain-5-big.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F13-RF.pdf",
@@ -5866,7 +5866,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -5907,7 +5907,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -5948,7 +5948,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -5989,7 +5989,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6030,7 +6030,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6071,7 +6071,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6112,7 +6112,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6153,7 +6153,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6194,7 +6194,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6235,7 +6235,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6276,7 +6276,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6317,7 +6317,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6358,7 +6358,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6399,7 +6399,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6440,7 +6440,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6481,7 +6481,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6522,7 +6522,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6563,7 +6563,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6604,7 +6604,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6645,7 +6645,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi26/fbvCSMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F33-RF.pdf",
@@ -6686,7 +6686,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi68/fbvCSMain-7.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi68/fbvCSMain-7.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F33-RF.pdf",
@@ -6727,7 +6727,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi68/fbvCSMain-7.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi68/fbvCSMain-7.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F33-RF.pdf",
@@ -6768,7 +6768,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi68/fbvCSMain-7.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi68/fbvCSMain-7.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F33-RF.pdf",
@@ -6809,7 +6809,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi68/fbvCSMain-7.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi68/fbvCSMain-7.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F33-RF.pdf",
@@ -6850,7 +6850,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF740psi68/fbvCSMain-7.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF740psi68/fbvCSMain-7.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F33-RF.pdf",
@@ -6891,7 +6891,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -6932,7 +6932,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -6973,7 +6973,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7014,7 +7014,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7055,7 +7055,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7096,7 +7096,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7137,7 +7137,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7178,7 +7178,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7219,7 +7219,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7260,7 +7260,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7301,7 +7301,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7342,7 +7342,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7383,7 +7383,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7424,7 +7424,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7465,7 +7465,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7506,7 +7506,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7547,7 +7547,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7588,7 +7588,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Rugged Locking Device Standard"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi24/fbvCSMain-8.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-F63-RF.pdf",
@@ -7629,7 +7629,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -7670,7 +7670,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -7711,7 +7711,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -7752,7 +7752,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -7793,7 +7793,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -7834,7 +7834,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -7875,7 +7875,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -7916,7 +7916,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -7957,7 +7957,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -7998,7 +7998,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -8039,7 +8039,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -8080,7 +8080,7 @@ window.BALON_SITE_DATA = {
         "Exclusive Balon Gearbox (See page G-2 )",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF1480psi48/fbvCSMain-9.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/4F-F63-RF.pdf",
@@ -8121,7 +8121,7 @@ window.BALON_SITE_DATA = {
         "Certified Fire Safe per API 6FA",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-RF.pdf",
@@ -8162,7 +8162,7 @@ window.BALON_SITE_DATA = {
         "Certified Fire Safe per API 6FA",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-RF.pdf",
@@ -8203,7 +8203,7 @@ window.BALON_SITE_DATA = {
         "Certified Fire Safe per API 6FA",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-RF.pdf",
@@ -8244,7 +8244,7 @@ window.BALON_SITE_DATA = {
         "Certified Fire Safe per API 6FA",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-RF.pdf",
@@ -8285,7 +8285,7 @@ window.BALON_SITE_DATA = {
         "Certified Fire Safe per API 6FA",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-RF.pdf",
@@ -8326,7 +8326,7 @@ window.BALON_SITE_DATA = {
         "Certified Fire Safe per API 6FA",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF2200psi2/fbvCSMain-10.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F93-RF.pdf",
@@ -8367,7 +8367,7 @@ window.BALON_SITE_DATA = {
         "Certified Fire Safe per API 6FA",
         "Exclusive Balon Gearbox (See page G-2 )"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF2220psi3/3F-F93-RF-ProductPage.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF2220psi3/3F-F93-RF-ProductPage.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/3F-F93.pdf",
@@ -8408,7 +8408,7 @@ window.BALON_SITE_DATA = {
         "Certified Fire Safe per API 6FA",
         "Exclusive Balon Gearbox (See page G-2 )"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF2220psi3/3F-F93-RF-ProductPage.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF2220psi3/3F-F93-RF-ProductPage.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/3F-F93.pdf",
@@ -8449,7 +8449,7 @@ window.BALON_SITE_DATA = {
         "Certified Fire Safe per API 6FA",
         "Exclusive Balon Gearbox (See page G-2 )"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF2220psi3/3F-F93-RF-ProductPage.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF2220psi3/3F-F93-RF-ProductPage.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/3F-F93.pdf",
@@ -8490,7 +8490,7 @@ window.BALON_SITE_DATA = {
         "Certified Fire Safe per API 6FA",
         "Exclusive Balon Gearbox (See page G-2 )"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF2220psi3/3F-F93-RF-ProductPage.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF2220psi3/3F-F93-RF-ProductPage.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/3F-F93.pdf",
@@ -8531,7 +8531,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -8572,7 +8572,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -8613,7 +8613,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -8654,7 +8654,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -8695,7 +8695,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -8736,7 +8736,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -8777,7 +8777,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -8818,7 +8818,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -8859,7 +8859,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -8900,7 +8900,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -8941,7 +8941,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -8982,7 +8982,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi24/fbvCSMain-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US13-WF.pdf",
@@ -9023,7 +9023,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9064,7 +9064,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9105,7 +9105,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9146,7 +9146,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9187,7 +9187,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9228,7 +9228,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9269,7 +9269,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9310,7 +9310,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9351,7 +9351,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9392,7 +9392,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9433,7 +9433,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9474,7 +9474,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9515,7 +9515,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9556,7 +9556,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9597,7 +9597,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9638,7 +9638,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9679,7 +9679,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9720,7 +9720,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9761,7 +9761,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9802,7 +9802,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Meets/Exceeds-ASME B16.34"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS285psi26/fbvCSMain-15.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-US33-BW.pdf",
@@ -9843,7 +9843,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Individually Tested and Stamped to ASME B16.33"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS175psi/US175psi.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS175psi/US175psi.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/US175psi.pdf",
@@ -9884,7 +9884,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Individually Tested and Stamped to ASME B16.33"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS175psi/US175psi.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS175psi/US175psi.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/US175psi.pdf",
@@ -9925,7 +9925,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Individually Tested and Stamped to ASME B16.33"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS175psi/US175psi.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS175psi/US175psi.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/US175psi.pdf",
@@ -9966,7 +9966,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Individually Tested and Stamped to ASME B16.33"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS175psi/US175psi.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS175psi/US175psi.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/US175psi.pdf",
@@ -10007,7 +10007,7 @@ window.BALON_SITE_DATA = {
         "Individually Tested and Stamped to ASME B16.33",
         "Full Port to Accommodate Industry Stop Changers"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS175psiInsulated/US175psiInsulated.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS175psiInsulated/US175psiInsulated.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/InsulatedUnionMeter.pdf",
@@ -10048,7 +10048,7 @@ window.BALON_SITE_DATA = {
         "Individually Tested and Stamped to ASME B16.33",
         "Full Port to Accommodate Industry Stop Changers"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesUS175psiInsulated/US175psiInsulated.png",
+      "image": "data/assets/image/Floating Ball Valves/SeriesUS175psiInsulated/US175psiInsulated.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/InsulatedUnionMeter.pdf",
@@ -10089,7 +10089,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10130,7 +10130,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10171,7 +10171,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10212,7 +10212,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10253,7 +10253,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10294,7 +10294,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10335,7 +10335,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10376,7 +10376,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10417,7 +10417,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10458,7 +10458,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10499,7 +10499,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10540,7 +10540,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10581,7 +10581,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10622,7 +10622,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10663,7 +10663,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10704,7 +10704,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10745,7 +10745,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10786,7 +10786,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10827,7 +10827,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10868,7 +10868,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10909,7 +10909,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10950,7 +10950,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -10991,7 +10991,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -11032,7 +11032,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -11073,7 +11073,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -11114,7 +11114,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -11155,7 +11155,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -11196,7 +11196,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -11237,7 +11237,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -11278,7 +11278,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -11319,7 +11319,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -11360,7 +11360,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvDIMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SE.pdf",
@@ -11401,7 +11401,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11442,7 +11442,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11483,7 +11483,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11524,7 +11524,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11565,7 +11565,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11606,7 +11606,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11647,7 +11647,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11688,7 +11688,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11729,7 +11729,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11770,7 +11770,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11811,7 +11811,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11852,7 +11852,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11893,7 +11893,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11934,7 +11934,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -11975,7 +11975,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -12016,7 +12016,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -12057,7 +12057,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -12098,7 +12098,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -12139,7 +12139,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -12180,7 +12180,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -12221,7 +12221,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -12262,7 +12262,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "Bolted Body Protects Against End Adapter Rotation"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvDIMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F92-SE.pdf",
@@ -12303,7 +12303,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MF.pdf",
@@ -12344,7 +12344,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MF.pdf",
@@ -12385,7 +12385,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MF.pdf",
@@ -12426,7 +12426,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MF.pdf",
@@ -12467,7 +12467,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MF.pdf",
@@ -12508,7 +12508,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24/2R-S32-MF.Revised.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MF.pdf",
@@ -12549,7 +12549,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MG.pdf",
@@ -12590,7 +12590,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MG.pdf",
@@ -12631,7 +12631,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MG.pdf",
@@ -12672,7 +12672,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MG.pdf",
@@ -12713,7 +12713,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MG.pdf",
@@ -12754,7 +12754,7 @@ window.BALON_SITE_DATA = {
         "Multi-Seal Seats",
         "NACE Option With 316 Stainless Steel Ball and Stem Available"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24TxG/2R-S32-MG.1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-MG.pdf",
@@ -12795,7 +12795,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SEGE.pdf",
@@ -12836,7 +12836,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SEGE.pdf",
@@ -12877,7 +12877,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SEGE.pdf",
@@ -12918,7 +12918,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SEGE.pdf",
@@ -12959,7 +12959,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SEGE.pdf",
@@ -13000,7 +13000,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS750psi24SxG/2R-S32-SEGE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S32-SEGE.pdf",
@@ -13041,7 +13041,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13082,7 +13082,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13123,7 +13123,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13164,7 +13164,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13205,7 +13205,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13246,7 +13246,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13287,7 +13287,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13328,7 +13328,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13369,7 +13369,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13410,7 +13410,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13451,7 +13451,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13492,7 +13492,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13533,7 +13533,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13574,7 +13574,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/2R-S32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S42-SE.pdf",
@@ -13615,7 +13615,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -13656,7 +13656,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -13697,7 +13697,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -13738,7 +13738,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -13779,7 +13779,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -13820,7 +13820,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -13861,7 +13861,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -13902,7 +13902,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -13943,7 +13943,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -13984,7 +13984,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -14025,7 +14025,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -14066,7 +14066,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -14107,7 +14107,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -14148,7 +14148,7 @@ window.BALON_SITE_DATA = {
         "NACE Option With 316 Stainless Steel Ball and Stem Available",
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF200psi26/fbvDIMain-6.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F12-RF.pdf",
@@ -14189,7 +14189,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-SE.pdf",
@@ -14230,7 +14230,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-SE.pdf",
@@ -14271,7 +14271,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-SE.pdf",
@@ -14312,7 +14312,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-SE.pdf",
@@ -14353,7 +14353,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-SE.pdf",
@@ -14394,7 +14394,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS5000psi12/fbvABMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-SE.pdf",
@@ -14435,7 +14435,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvABMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvABMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F04N-SE.pdf",
@@ -14476,7 +14476,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvABMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvABMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F04N-SE.pdf",
@@ -14517,7 +14517,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF5000psi14/fbvABMain-2.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF5000psi14/fbvABMain-2.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F04N-SE.pdf",
@@ -14558,7 +14558,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-GE.pdf",
@@ -14599,7 +14599,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-GE.pdf",
@@ -14640,7 +14640,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-GE.pdf",
@@ -14681,7 +14681,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-GE.pdf",
@@ -14722,7 +14722,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-GE.pdf",
@@ -14763,7 +14763,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-GE.pdf",
@@ -14804,7 +14804,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesS1000psi24/fbvABMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-S44N-GE.pdf",
@@ -14845,7 +14845,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF2000psi2/fbvABMain-4.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF2000psi2/fbvABMain-4.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-F94N-GE.pdf",
@@ -14886,7 +14886,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi24/3F-F14N-RF.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi24/3F-F14N-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/3F-F14N-RF.pdf",
@@ -14927,7 +14927,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi24/3F-F14N-RF.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi24/3F-F14N-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/3F-F14N-RF.pdf",
@@ -14968,7 +14968,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi24/3F-F14N-RF.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi24/3F-F14N-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/3F-F14N-RF.pdf",
@@ -15009,7 +15009,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi68/6F-F14N-RF.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi68/6F-F14N-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F14N-RF.pdf",
@@ -15050,7 +15050,7 @@ window.BALON_SITE_DATA = {
         "Certified Low Emission Per API 641",
         "Fire Safe Design"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesF285psi68/6F-F14N-RF.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesF285psi68/6F-F14N-RF.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/6F-F14N-RF.pdf",
@@ -15091,7 +15091,7 @@ window.BALON_SITE_DATA = {
         "Fire Safe Design",
         "Exclusive Patented Design Inhibits Loosening of End Adapter"
       ],
-      "image": "data/assets/images/Floating Ball Valves/SeriesLS3000psi141/fbvSSMain-1.jpg",
+      "image": "data/assets/image/Floating Ball Valves/SeriesLS3000psi141/fbvSSMain-1.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/LS-02592.pdf",
@@ -15126,7 +15126,7 @@ window.BALON_SITE_DATA = {
         "Patented Hinge-Works for Extended Life",
         "Replaceable 316 Stainless Steel Disc Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D93-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D63-SE.pdf",
@@ -15167,7 +15167,7 @@ window.BALON_SITE_DATA = {
         "Patented Hinge-Works for Extended Life",
         "Replaceable 316 Stainless Steel Disc Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D93-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D63-SE.pdf",
@@ -15208,7 +15208,7 @@ window.BALON_SITE_DATA = {
         "Patented Hinge-Works for Extended Life",
         "Replaceable 316 Stainless Steel Disc Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D93-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D63-SE.pdf",
@@ -15249,7 +15249,7 @@ window.BALON_SITE_DATA = {
         "Patented Hinge-Works for Extended Life",
         "Replaceable 316 Stainless Steel Disc Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D93-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D93-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D63-SE.pdf",
@@ -15290,7 +15290,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-SE.pdf",
@@ -15331,7 +15331,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-SE.pdf",
@@ -15372,7 +15372,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-SE.pdf",
@@ -15413,7 +15413,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-SE.pdf",
@@ -15454,7 +15454,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-SE.pdf",
@@ -15495,7 +15495,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-SE.pdf",
@@ -15536,7 +15536,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-SE.pdf",
@@ -15577,7 +15577,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-SE.pdf",
@@ -15618,7 +15618,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/2F-D92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-SE.pdf",
@@ -15659,7 +15659,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Enhanced Protection Against CO2 and Saltwater Corrosion"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/scvSeriesDMain-3.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/scvSeriesDMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D44-SE.pdf",
@@ -15700,7 +15700,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Enhanced Protection Against CO2 and Saltwater Corrosion"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/scvSeriesDMain-3.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/scvSeriesDMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D44-SE.pdf",
@@ -15741,7 +15741,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Enhanced Protection Against CO2 and Saltwater Corrosion"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/scvSeriesDMain-3.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/scvSeriesDMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D44-SE.pdf",
@@ -15782,7 +15782,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Enhanced Protection Against CO2 and Saltwater Corrosion"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/scvSeriesDMain-3.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/scvSeriesDMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D44-SE.pdf",
@@ -15823,7 +15823,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Enhanced Protection Against CO2 and Saltwater Corrosion"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD2500psi12/scvSeriesDMain-3.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD2500psi12/scvSeriesDMain-3.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D44-SE.pdf",
@@ -15864,7 +15864,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD750psi24/2F-D32-GE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD750psi24/2F-D32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-GE.pdf",
@@ -15905,7 +15905,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD750psi24/2F-D32-GE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD750psi24/2F-D32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-GE.pdf",
@@ -15946,7 +15946,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Patented Hinge-Works for Extended Life"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD750psi24/2F-D32-GE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD750psi24/2F-D32-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D32-GE.pdf",
@@ -15987,7 +15987,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Enhanced Protection Against CO² and Saltwater Corrosion"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD750psi24/2F-D44-GE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD750psi24/2F-D44-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D44-GE.pdf",
@@ -16028,7 +16028,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Enhanced Protection Against CO² and Saltwater Corrosion"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD750psi24/2F-D44-GE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD750psi24/2F-D44-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D44-GE.pdf",
@@ -16069,7 +16069,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Enhanced Protection Against CO² and Saltwater Corrosion"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD750psi24/2F-D44-GE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD750psi24/2F-D44-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D44-GE.pdf",
@@ -16110,7 +16110,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Enhanced Protection Against CO² and Saltwater Corrosion"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesD750psi24/2F-D44-GE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesD750psi24/2F-D44-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-D44-GE.pdf",
@@ -16151,7 +16151,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC2000psi23/2R-C92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC2000psi23/2R-C92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C92-SE.pdf",
@@ -16192,7 +16192,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC2000psi23/2R-C92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC2000psi23/2R-C92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C92-SE.pdf",
@@ -16233,7 +16233,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC2000psi23/2R-C92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC2000psi23/2R-C92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C92-SE.pdf",
@@ -16274,7 +16274,7 @@ window.BALON_SITE_DATA = {
         "High Grade Annealed Ductile Iron for Better Corrosion Resistance and Greater Yield Strength",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC2000psi23/2R-C92-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC2000psi23/2R-C92-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C92-SE.pdf",
@@ -16315,7 +16315,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC750psi23/2RC32SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC750psi23/2RC32SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C32-SE&2R-C42-SE.pdf",
@@ -16350,7 +16350,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC750psi23/2RC32SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC750psi23/2RC32SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C32-SE&2R-C42-SE.pdf",
@@ -16385,7 +16385,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC750psi23/2RC32SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC750psi23/2RC32SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C32-SE&2R-C42-SE.pdf",
@@ -16420,7 +16420,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC750psi23/2RC32SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC750psi23/2RC32SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C32-SE&2R-C42-SE.pdf",
@@ -16455,7 +16455,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC750psi23/2RC32SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC750psi23/2RC32SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C32-SE&2R-C42-SE.pdf",
@@ -16489,7 +16489,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1000psi2/2R-C42S-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1000psi2/2R-C42S-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C32-SE&2R-C42-SE.pdf",
@@ -16529,7 +16529,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1000psi2/2R-C42S-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1000psi2/2R-C42S-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C32-SE&2R-C42-SE.pdf",
@@ -16570,7 +16570,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC2000psi23/2R-C03-SE.PICTURE.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC2000psi23/2R-C03-SE.PICTURE.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C03-SE.pdf",
@@ -16611,7 +16611,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC2000psi23/2R-C03-SE.PICTURE.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC2000psi23/2R-C03-SE.PICTURE.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C03-SE.pdf",
@@ -16651,7 +16651,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "NACE Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC3000psi12/2F-C43-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC3000psi12/2F-C43-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1FC63SE-2RC43GE.pdf",
@@ -16691,7 +16691,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "NACE Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC3000psi12/2F-C43-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC3000psi12/2F-C43-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1FC63SE-2RC43GE.pdf",
@@ -16731,7 +16731,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "NACE Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC3000psi12/2F-C43-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC3000psi12/2F-C43-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1FC63SE-2RC43GE.pdf",
@@ -16771,7 +16771,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "NACE Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC3000psi12/2F-C43-SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC3000psi12/2F-C43-SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1FC63SE-2RC43GE.pdf",
@@ -16811,7 +16811,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "NACE Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1000psi23/2R-C43-GE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1000psi23/2R-C43-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1FC63SE-2RC43GE.pdf",
@@ -16851,7 +16851,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "NACE Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1000psi23/2R-C43-GE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1000psi23/2R-C43-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1FC63SE-2RC43GE.pdf",
@@ -16891,7 +16891,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "NACE Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1000psi23/2R-C43-GE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1000psi23/2R-C43-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1FC63SE-2RC43GE.pdf",
@@ -16931,7 +16931,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "NACE Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1000psi23/2R-C43-GE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1000psi23/2R-C43-GE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/1FC63SE-2RC43GE.pdf",
@@ -16972,7 +16972,7 @@ window.BALON_SITE_DATA = {
         "Enhanced Protection Against CO2 and Saltwater Corrosion",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC2000psi23/2R-C04S-SE.picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC2000psi23/2R-C04S-SE.picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C04S-SE.pdf",
@@ -17007,7 +17007,7 @@ window.BALON_SITE_DATA = {
         "Enhanced Protection Against CO2 and Saltwater Corrosion",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC2000psi23/2R-C04S-SE.picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC2000psi23/2R-C04S-SE.picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C04S-SE.pdf",
@@ -17042,7 +17042,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Enhanced Protection Against CO² and Saltwater Corrosion"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC750psi23/2RC34SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC750psi23/2RC34SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C34-SE.pdf",
@@ -17077,7 +17077,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Enhanced Protection Against CO² and Saltwater Corrosion"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC750psi23/2RC34SE.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC750psi23/2RC34SE.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2R-C34-SE.pdf",
@@ -17111,7 +17111,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C13S-RF.pdf",
@@ -17145,7 +17145,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C13S-RF.pdf",
@@ -17179,7 +17179,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C13S-RF.pdf",
@@ -17213,7 +17213,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C13S-RF.pdf",
@@ -17247,7 +17247,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C13S-RF.pdf",
@@ -17281,7 +17281,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C13S-RF.pdf",
@@ -17315,7 +17315,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C13S-RF.pdf",
@@ -17349,7 +17349,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC285psi26/2F-C13S-Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C13S-RF.pdf",
@@ -17383,7 +17383,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C33S-RF.pdf",
@@ -17417,7 +17417,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C33S-RF.pdf",
@@ -17451,7 +17451,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C33S-RF.pdf",
@@ -17485,7 +17485,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C33S-RF.pdf",
@@ -17519,7 +17519,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C33S-RF.pdf",
@@ -17553,7 +17553,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C33S-RF.pdf",
@@ -17587,7 +17587,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C33S-RF.pdf",
@@ -17621,7 +17621,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC740psi26/2F-C33S-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C33S-RF.pdf",
@@ -17655,7 +17655,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C63S-RF.pdf",
@@ -17689,7 +17689,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C63S-RF.pdf",
@@ -17723,7 +17723,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C63S-RF.pdf",
@@ -17757,7 +17757,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C63S-RF.pdf",
@@ -17791,7 +17791,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C63S-RF.pdf",
@@ -17825,7 +17825,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C63S-RF.pdf",
@@ -17859,7 +17859,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C63S-RF.pdf",
@@ -17893,7 +17893,7 @@ window.BALON_SITE_DATA = {
         "Improved Seat Design Protects Seal From Flow",
         "Replaceable 316 Stainless Steel Seat Disc Cartridge Standard"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesC1480psi26/2F-C63-RF.Picture.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2F-C63S-RF.pdf",
@@ -17928,7 +17928,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -17969,7 +17969,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18010,7 +18010,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18051,7 +18051,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18092,7 +18092,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18133,7 +18133,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18174,7 +18174,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18215,7 +18215,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18256,7 +18256,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18297,7 +18297,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18338,7 +18338,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18379,7 +18379,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18420,7 +18420,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18461,7 +18461,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18502,7 +18502,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18543,7 +18543,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18584,7 +18584,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18625,7 +18625,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18666,7 +18666,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18707,7 +18707,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18748,7 +18748,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18789,7 +18789,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18830,7 +18830,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18871,7 +18871,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seal From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferThin/scvSeriesCMain-8-10-12.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2T-300.pdf",
@@ -18912,7 +18912,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -18953,7 +18953,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -18994,7 +18994,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19035,7 +19035,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19076,7 +19076,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19117,7 +19117,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19158,7 +19158,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19199,7 +19199,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19240,7 +19240,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19281,7 +19281,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19322,7 +19322,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19363,7 +19363,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19404,7 +19404,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19445,7 +19445,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19486,7 +19486,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19527,7 +19527,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19568,7 +19568,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19609,7 +19609,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19650,7 +19650,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19691,7 +19691,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19732,7 +19732,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19773,7 +19773,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19814,7 +19814,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19855,7 +19855,7 @@ window.BALON_SITE_DATA = {
         "NACE Standard",
         "Improved Seat Design Protects Seak From Flow"
       ],
-      "image": "data/assets/images/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.jpg",
+      "image": "data/assets/image/Swing Check Valves/SeriesCWaferLong/scvSeriesCMain-9-11-13.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/2L-150.pdf",
@@ -19887,7 +19887,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -19917,7 +19917,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -19947,7 +19947,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -19977,7 +19977,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20007,7 +20007,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20037,7 +20037,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20067,7 +20067,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20097,7 +20097,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20127,7 +20127,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20157,7 +20157,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20187,7 +20187,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20217,7 +20217,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20247,7 +20247,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20277,7 +20277,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20307,7 +20307,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20337,7 +20337,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20367,7 +20367,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20397,7 +20397,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20427,7 +20427,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20457,7 +20457,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20487,7 +20487,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20517,7 +20517,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20547,7 +20547,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20577,7 +20577,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20607,7 +20607,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20637,7 +20637,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20667,7 +20667,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20697,7 +20697,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
@@ -20727,7 +20727,7 @@ window.BALON_SITE_DATA = {
       "description": "The run torque is approximately 50%, or onehalf, of the breakaway torque. The re-seat torque is approximately 75%, or three-quarters, of the breakaway torque. Corrosion, scale, build-up on the ball, or other service conditions can drastically alter torque requirements and should be given consideration when selecting actuation or automation equipment.",
       "applications": "Oil and gas industry (Balon homepage); product-specific application not stated on source page",
       "features": [],
-      "image": "data/assets/images/Other Products - Accessories/prodActuation/Actuator Bracket.jpg",
+      "image": "data/assets/image/Other Products - Accessories/prodActuation/Actuator Bracket.webp",
       "datasheets": [
         {
           "localPath": "data/assets/documents/CutSheets/ActuationMountingPackage.pdf",
